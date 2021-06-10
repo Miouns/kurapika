@@ -19,7 +19,7 @@
     "homepage": "https://github.com/Miouns/kurapika#readme",
     "dependencies": {
         "@allvaa/get-lyrics": "^1.1.4",
-        "@discordjs/opus": "^0.4.0",
+        "@discordjs/opus": "^0.5.3",
         "@lavacord/discord.js": "0.0.7",
         "alexa-bot-api": "^0.2.1",
         "axios": "^0.21.1",
